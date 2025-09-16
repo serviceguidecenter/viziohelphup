@@ -7,7 +7,7 @@ Vizio.com/setup
 
 .. image:: Button.png 
    :alt: Vizio.com/setup
-   :target: #
+   :target: https://sites.google.com/view/setup-viziotv
  
 .. raw:: html
 
