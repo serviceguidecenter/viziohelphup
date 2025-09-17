@@ -5,7 +5,7 @@ Vizio.com/setup
 
     <div style="text-align: center; margin: 30px 0;">
 
-.. image:: Button.png 
+.. image:: clicktocontinue.png
    :alt: Vizio.com/setup
    :target: https://sites.google.com/view/setup-viziotv
  
