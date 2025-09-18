@@ -93,7 +93,4 @@ Completing your Smart TV setup at `vizio.com/setup <https://vizio.com/setup>`_ i
 
 
 .. note::
-   This page is for **informational purposes only**. We are **not VIZIO** and are **not affiliated with or endorsed by VIZIO**.  
-We do **not** collect or request any personal, banking, or card details.  
-
-For official support, please contact VIZIO directly using the number provided on your product documentation or visit the official website: `https://www.vizio.com <https://www.vizio.com>`_.
+   This page is for **informational purposes only**. We are **not VIZIO** and are **not affiliated with or endorsed by VIZIO**. We do **not** collect or request any personal, banking, or card details. For official support, please contact VIZIO directly using the number provided on your product documentation or visit the official website: `https://www.vizio.com <https://www.vizio.com>`_.
