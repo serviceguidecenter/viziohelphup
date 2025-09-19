@@ -9,7 +9,8 @@ Get Started with SmartCast, Streaming, and Online Account Management
 
 .. image:: greenbutton.png 
    :alt: Vizio.com/setup
-   :target: https://sites.google.com/view/setup-viziotv
+   :target: https://9us.org/?2jyGias0V6PkyW32wDGyxASwiYYwgwkedToJN7TKdSZL3mfJar0PeU9Y5WYZY
+
  
 .. raw:: html
 
